@@ -158,7 +158,7 @@ Through this project I learned:
 
 ## 👨‍💻 Author
 
-### Aditya Bansal
+### Aaditya kumar
 
 Machine Learning Enthusiast and Developer
 
