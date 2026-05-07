@@ -59,7 +59,7 @@ st.markdown("""
 # ---------------- LOAD FILES ----------------
 model = joblib.load("KNN_heart_project.pkl")
 scaler = joblib.load("scaler_heart_project.pkl")
-expected_columns = joblib.load("columns.pkl")
+expected_columns = joblib.load("columns_heart.pkl")
 
 # ---------------- TITLE ----------------
 st.markdown(
